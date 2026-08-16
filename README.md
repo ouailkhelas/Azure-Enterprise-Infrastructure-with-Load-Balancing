@@ -1,8 +1,8 @@
-# Azure Enterprise Infrastructure with Load Balancing & High Availability
+# Azure Load Balancing
 
 ## 🚀 Overview
 
-This project demonstrates deploying enterprise-grade Azure infrastructure with load balancing, high availability, and security hardening. The entire infrastructure was designed in Azure Portal.
+This project demonstrates deploying enterprise-grade Azure infrastructure with load balancing, high availability, and security hardening. The entire infrastructure was designed in Azure Portal.jskjzjwzjkwjzkwz
 
 ## ✅ What I Built
 
