@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project demonstrates deploying enterprise-grade Azure infrastructure with load balancing, high availability, and security hardening. The entire infrastructure was designed in Azure Portal.jskjzjwzjkwjzkwz
+This project demonstrates deploying enterprise-grade Azure infrastructure with load balancing, high availability, and security hardening. The entire infrastructure was designed in Azure Portal.
 
 ## ✅ What I Built
 
