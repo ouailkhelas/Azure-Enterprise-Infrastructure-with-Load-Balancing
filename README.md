@@ -88,7 +88,7 @@ Exported the entire infrastructure from Azure Portal as ARM Template JSON:
 3. Downloaded template.json
 4. Reviewed and customized parameters
 ```
-
+jjsjsjsjjwnnwjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 ## 📊 Infrastructure Components
 
 | Component | Count | Details |
